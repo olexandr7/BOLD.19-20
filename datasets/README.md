@@ -77,3 +77,7 @@ Bicycle routes and recreational activities allowed on the route within New York 
 | Licence      | NA - Unspecified        |
 |Periodicity   | 2019 (latest version)   |
 |File format   | csv                     |
+
+
+##Licensing 
+All datasets are provided under their original licenses and are intended for public access and use as they were produced by respective goverment bodies. 
