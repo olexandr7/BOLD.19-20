@@ -57,6 +57,8 @@ This dataset contains the statistical overview of Erasmus mobility for students 
 #### [Wages and salaries and labour costs](http://andmebaas.stat.ee/Index.aspx?lang=en#)
 [PA001: Average gross wages (salaries), labour cost, hours actually worked and number of employees by economic activity section (quarterly)](http://andmebaas.stat.ee/Index.aspx?DataSetCode=PA001) 
 
+Average monthly gross wages (salaries) and Average hourly gross wages (salaries) by economic activity areas
+
 | Published by | Statistics Estonia      |   
 | -------------|:-----------------------:|
 | Licence      | NA - Unspecified        |
