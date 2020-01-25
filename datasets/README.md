@@ -31,7 +31,7 @@ List of Certified Organic Farmers in Connecticut. These farms have successfully 
 #### [New York State Wildfires](https://data.ny.gov/Energy-Environment/New-York-State-Forest-Ranger-Wildland-Fire-Reporti/miub-n5th)
 [New York State Forest Ranger Wildland Fire Reporting Database](https://data.ny.gov/api/views/miub-n5th/rows.csv?accessType=DOWNLOAD&bom=true&format=true&delimiter=%3B&sorting=true) 
 
-This dataset includes details for each wildland fire recorded after 2007 under the jurisdiction of the DEC NYS Forest Rangers.Each wildfire controlled or prescribed fire conducted by NYS DEC Forest Rangers is documented as a single incident in this database.
+This dataset includes details for each wildland fire recorded after 2007 under the jurisdiction of the DEC NYS Forest Rangers. Each wildfire controlled or prescribed fire conducted by NYS DEC Forest Rangers is documented as a single incident in this database.
 
 | Published by |  NYS Department of Environmental Conservation|   
 | -------------|:-----------------------:|
@@ -40,5 +40,15 @@ This dataset includes details for each wildland fire recorded after 2007 under t
 |File format   | csv                     |
 
 
+## 4. European Union - Education
+#### [DG EAG Erasmus mobility statistics 2013 - 2014](https://data.europa.eu/euodp/en/data/dataset/erasmus-mobility-statistics-2013-14)
+[Raw data of Erasmus student mobility (study exchanges and work placements in 2013-14)](https://data.europa.eu/euodp/repository/ec/dg-eac/erasmus-data-2013-2014/Student_Mobility_2013-14.xlsx) 
 
+This dataset contains the statistical overview of Erasmus mobility for students (study exchanges and work placements) and staff (teaching assignments and staff training) in 2013-14, with the corresponding raw data. Statistics are presented at country and European level for various criteria, e.g.: age, gender, grant, duration, special needs, subject area, level of study, sending and receiving country, etc.
+
+| Published by | European Comission, Directorate General for Education and Culture|   
+| -------------|:-----------------------:|
+| Licence      | NA - Unspecified        |
+|Periodicity   | 2013-2014               |
+|File format   | xlsx                    |
 
