@@ -23,7 +23,7 @@ List of Certified Organic Farmers in Connecticut. These farms have successfully 
 | Published by |  State of Connecticut   |   
 | -------------|:-----------------------:|
 | Licence      | NA - Unspecified        |
-|Periodicity   | 2019                    |
+|Periodicity   | 2019 (latest version)   |
 |File format   | csv                     |
 
 
@@ -75,5 +75,5 @@ Bicycle routes and recreational activities allowed on the route within New York 
 | Published by | NYS Department of Transportation|   
 | -------------|:-----------------------:|
 | Licence      | NA - Unspecified        |
-|Periodicity   | 2019                    |
+|Periodicity   | 2019 (latest version)   |
 |File format   | csv                     |
