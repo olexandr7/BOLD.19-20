@@ -41,12 +41,12 @@ This dataset includes details for each wildland fire recorded after 2007 under t
 
 
 ## 4. European Union - Education
-#### [DG EAG Erasmus mobility statistics 2013 - 2014](https://data.europa.eu/euodp/en/data/dataset/erasmus-mobility-statistics-2013-14)
+#### [DG EAC Erasmus mobility statistics 2013 - 2014](https://data.europa.eu/euodp/en/data/dataset/erasmus-mobility-statistics-2013-14)
 [Raw data of Erasmus student mobility (study exchanges and work placements in 2013-14)](https://data.europa.eu/euodp/repository/ec/dg-eac/erasmus-data-2013-2014/Student_Mobility_2013-14.xlsx) 
 
 This dataset contains the statistical overview of Erasmus mobility for students (study exchanges and work placements) and staff (teaching assignments and staff training) in 2013-14, with the corresponding raw data. Statistics are presented at country and European level for various criteria, e.g.: age, gender, grant, duration, special needs, subject area, level of study, sending and receiving country, etc.
 
-| Published by | European Comission, Directorate General for Education and Culture|   
+| Published by | EC Directorate General for Education and Culture|   
 | -------------|:-----------------------:|
 | Licence      | NA - Unspecified        |
 |Periodicity   | 2013-2014               |
