@@ -33,7 +33,7 @@ List of Certified Organic Farmers in Connecticut. These farms have successfully 
 
 This dataset includes details for each wildland fire recorded after 2007 under the jurisdiction of the DEC NYS Forest Rangers.Each wildfire controlled or prescribed fire conducted by NYS DEC Forest Rangers is documented as a single incident in this database.
 
-| Published by |  NYS Department of Environmental Conservation, Division of Forest Protection|   
+| Published by |  NYS Department of Environmental Conservation|   
 | -------------|:-----------------------:|
 | Licence      | NA - Unspecified        |
 |Periodicity   | 2008-2019               |
