@@ -11,7 +11,7 @@ Annual release of statistics for football-related arrests and football banning o
 | -------------|:-----------------------:|
 | Licence      | Open Government Licence |
 |Periodicity   | 2013-2014               |
-|File format   | ODS                     |
+|File format   | ods                     |
 
 
 ## 2. United States - Agriculture
