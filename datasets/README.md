@@ -57,7 +57,7 @@ This dataset contains the statistical overview of Erasmus mobility for students 
 #### [Wages and salaries and labour costs](http://andmebaas.stat.ee/Index.aspx?lang=en#)
 [PA001: Average gross wages (salaries), labour cost, hours actually worked and number of employees by economic activity section (quarterly)](http://andmebaas.stat.ee/Index.aspx?DataSetCode=PA001) 
 
-Average monthly gross wages (salaries) and Average hourly gross wages (salaries) by economic activity areas
+Average monthly gross wages and average hourly gross wages by economic activity areas.
 
 | Published by | Statistics Estonia      |   
 | -------------|:-----------------------:|
@@ -65,3 +65,15 @@ Average monthly gross wages (salaries) and Average hourly gross wages (salaries)
 |Periodicity   | 2010-2018               |
 |File format   | xls                     |
 
+
+## 6. United States - Transportation
+#### [Bicycle Routes Across New York State](https://data.ny.gov/Transportation/Bicycle-Routes-Across-New-York-State/7bg2-3faq)
+[List of NYS bycicle routes](https://data.ny.gov/api/views/7bg2-3faq/rows.csv?accessType=DOWNLOAD&bom=true&format=true&delimiter=%3B&sorting=true) 
+
+Bicycle routes and recreational activities allowed on the route within New York State. This list includes both on- and off-road bicycle routes and even includes information on surface type as well as other types of recreational activities allowed on the route.
+
+| Published by | NYS Department of Transportation|   
+| -------------|:-----------------------:|
+| Licence      | NA - Unspecified        |
+|Periodicity   | 2019                    |
+|File format   | csv                     |
