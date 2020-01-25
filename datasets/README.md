@@ -22,6 +22,23 @@ List of Certified Organic Farmers in Connecticut. These farms have successfully 
 
 | Published by |  State of Connecticut   |   
 | -------------|:-----------------------:|
-| Licence      | NA                      |
-|Periodicity   | 2020                    |
+| Licence      | NA - Unspecified        |
+|Periodicity   | 2019                    |
 |File format   | csv                     |
+
+
+## 3. United States - Public Safety/Environment
+#### [New York State Wildfires](https://data.ny.gov/Energy-Environment/New-York-State-Forest-Ranger-Wildland-Fire-Reporti/miub-n5th)
+[New York State Forest Ranger Wildland Fire Reporting Database](https://data.ny.gov/api/views/miub-n5th/rows.csv?accessType=DOWNLOAD&bom=true&format=true&delimiter=%3B&sorting=true) 
+
+This dataset includes details for each wildland fire recorded after 2007 under the jurisdiction of the DEC NYS Forest Rangers.Each wildfire controlled or prescribed fire conducted by NYS DEC Forest Rangers is documented as a single incident in this database.
+
+| Published by |  NYS Department of Environmental Conservation, Division of Forest Protection|   
+| -------------|:-----------------------:|
+| Licence      | NA - Unspecified        |
+|Periodicity   | 2008-2019               |
+|File format   | csv                     |
+
+
+
+
