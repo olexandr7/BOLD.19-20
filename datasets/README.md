@@ -80,4 +80,4 @@ Bicycle routes and recreational activities allowed on the route within New York 
 
 
 ##Licensing 
-All datasets are provided under their original licenses and are intended for public access and use as they were produced by respective goverment bodies. 
+All datasets are provided under their original licenses and are intended for public access and use as they were produced by respective goverment bodies and contain public sector information. 
