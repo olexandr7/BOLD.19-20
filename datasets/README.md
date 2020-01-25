@@ -1,4 +1,5 @@
-5 open goverment datasets from various OECD countries are chosen to accomodate expected number of course participants (20 - 4 persons * 5 teams)
+## Idea
+5 open goverment datasets from various OECD countries are chosen to accomodate expected number of course participants (20 -> 4 persons * 5 teams)
 
 
 ## United Kingdom - Crime and justice
