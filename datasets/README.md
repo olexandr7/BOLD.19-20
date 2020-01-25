@@ -1,4 +1,4 @@
-5 open goverment datasets from various OECD countries are chosen to accomodate expected number of course participants (20 -> 4 persons * 5 teams)
+5 open goverment datasets from various OECD countries are chosen to accomodate expected number of course participants (20 -> 4 persons * 5 teams) + 1 additional for unforseen cirumstances
 
 
 ## 1. United Kingdom - Crime and justice
@@ -13,3 +13,15 @@ Annual release of statistics for football-related arrests and football banning o
 |Periodicity   | 2013-2014               |
 |File format   | ODS                     |
 
+
+## 2. United States - Agriculture
+#### [USDA Certified Organic Growers](https://catalog.data.gov/dataset/usda-certified-organic-growers)
+[Certified Organic Farmers in Connecticut](https://data.ct.gov/api/views/2fa6-zgve/rows.csv?accessType=DOWNLOAD) 
+
+List of Certified Organic Farmers in Connecticut. These farms have successfully passed an inspection from a USDA National Organic Program Accredited Inspection Agency.
+
+| Published by |  State of Connecticut   |   
+| -------------|:-----------------------:|
+| Licence      | NA                      |
+|Periodicity   | 2020                    |
+|File format   | csv                     |
