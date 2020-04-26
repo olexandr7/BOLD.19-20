@@ -1,0 +1,16 @@
+	CountyName	ShortName	PopulationCount	TestsCount	TestedPopulation	Country
+0	Harju maakond	Harjumaa	598059	19860	   3.320743	Estonia
+1	Hiiu maakond	Hiiumaa	9387	440	   4.687334	Estonia
+2	Ida-Viru maakond	Ida-Virumaa	136240	4493	   3.297857	Estonia
+3	Järva maakond	Järvamaa	30286	1201	   3.965529	Estonia
+4	Jõgeva maakond	Jõgevamaa	28734	1156	   4.023109	Estonia
+5	Lääne maakond	Läänemaa	20507	702	   3.423221	Estonia
+6	Lääne-Viru maakond	Lääne-Virumaa	59325	1556	   2.622840	Estonia
+7	Pärnu maakond	Pärnumaa	85938	3105	   3.613070	Estonia
+8	Põlva maakond	Põlvamaa	25006	931	   3.723106	Estonia
+9	Rapla maakond	Raplamaa	33311	1230	   3.692474	Estonia
+10	Saare maakond	Saaremaa	33108	3295	   9.952277	Estonia
+11	Tartu maakond	Tartumaa	152976	4639	   3.032502	Estonia
+12	Valga maakond	Valgamaa	28370	1029	   3.627071	Estonia
+13	Viljandi maakond	Viljandimaa	46371	1902	   4.101701	Estonia
+14	Võru maakond	Võrumaa	35782	1767	   4.938237	Estonia
